@@ -1,0 +1,8 @@
+${Ansi.RED} d8888b. d88888b d8b   db db    db d88888b d8b   db db    db d888888b  .d88b.  
+${Ansi.GREEN} 88  `8D 88'     888o  88 88    88 88'     888o  88 88    88 `~~88~~' .8P  Y8. 
+${Ansi.BLUE} 88oooY' 88ooooo 88V8o 88 Y8    8P 88ooooo 88V8o 88 88    88    88    88    88 
+${Ansi.RED} 88~~~b. 88~~~~~ 88 V8o88 `8b  d8' 88~~~~~ 88 V8o88 88    88    88    88    88 
+${Ansi.GREEN} 88   8D 88.     88  V888  `8bd8'  88.     88  V888 88b  d88    88    `8b  d8' 
+${Ansi.RED} Y8888P' Y88888P VP   V8P    YP    Y88888P VP   V8P ~Y8888P'    YP     `Y88P'  
+
+${Ansi.RED} :: Spring Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
